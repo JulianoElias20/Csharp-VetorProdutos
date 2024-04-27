@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\VetorOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\VetorOO.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\VetorOO.AssemblyInfo.cs
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\VetorOO.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\VetorOO\VetorOO\bin\Debug\net8.0\VetorOO.exe
+C:\Users\julia\source\repos\VetorOO\VetorOO\bin\Debug\net8.0\VetorOO.deps.json
+C:\Users\julia\source\repos\VetorOO\VetorOO\bin\Debug\net8.0\VetorOO.runtimeconfig.json
+C:\Users\julia\source\repos\VetorOO\VetorOO\bin\Debug\net8.0\VetorOO.dll
+C:\Users\julia\source\repos\VetorOO\VetorOO\bin\Debug\net8.0\VetorOO.pdb
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\VetorOO.dll
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\refint\VetorOO.dll
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\VetorOO.pdb
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\VetorOO.genruntimeconfig.cache
+C:\Users\julia\source\repos\VetorOO\VetorOO\obj\Debug\net8.0\ref\VetorOO.dll
